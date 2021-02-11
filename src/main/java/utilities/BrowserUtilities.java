@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class BrowserUtilities {
 
+
     //creating method name: wait
     //converting to miliseconds
     // handle checked exception
