@@ -33,6 +33,7 @@ public class LoginPage extends BasePage{
         username.sendKeys(userName);
         password.sendKeys(passWord, Keys.ENTER);
         submitButton.click();
+        //
     }
 
 
